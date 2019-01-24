@@ -1,6 +1,6 @@
 ## INTRODUCTION:
 
-For this SQL project, I created models, databases, tables, and query reports for a smartphone application. While completing this project, I used MySQL Workbench to test and run a database application that was developed for parts C through G.
+For this SQL project, I created models, databases, tables, and query reports for a smartphone application. While completing this project, I used MySQL Workbench to test and run a database application that was developed for parts C through G.  The project is in the main directory and titled as Kyle_Project_DunutDB_Final.pdf.
 
 ## SCENARIO:
 
